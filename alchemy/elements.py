@@ -1,4 +1,4 @@
-def creat_fire() -> str:
+def create_fire() -> str:
     return "Fire element created"
 
 
